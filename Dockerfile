@@ -1,3 +1,3 @@
 #wsun
 FROM busybox:latest
-COPY index.html /data/web/html/
+COPY index22.html /data/web/html/
